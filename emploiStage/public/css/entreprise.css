@@ -1,0 +1,19 @@
+h2{
+    font-size: 20px;
+    color: white;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.grand{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.petit{
+    width: 30%;
+}

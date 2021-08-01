@@ -1,0 +1,70 @@
+.title{
+    font-size: 30px;
+    color : white;
+    font-weight:bold;
+}
+
+.title:hover{
+    color : rgb(65,190,242);
+    text-decoration: none;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+
+
+.entreprises {
+    color: #fff;
+    transition: all 1s ease-out;
+    text-decoration: none;
+    margin-left: 16px;
+    font-size: 20px;
+}
+  
+.entreprises:hover{
+    color: rgb(65,190,242);
+    transition: all 1s ease-out;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.connecter{
+    font-size: 20px;
+    
+}
+
+.connecter:hover{
+    color: rgb(65,190,242);
+    transition: all 1s ease-out;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.deconnecter{
+    font-size: 20px; 
+    background : none; 
+    border: none;
+    color: white;
+}
+
+.deconnecter:hover{
+    color: rgb(65,190,242);
+    transition: all 1s ease-out;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.admin{
+    font-size: 20px; 
+    background : none; 
+    border: none;
+    color: white;
+    margin-right: 15px;
+}
+
+
+.admin:hover{
+    color: rgb(65,190,242);
+    transition: all 1s ease-out;
+    text-decoration: none;
+    font-weight: bold;
+}
